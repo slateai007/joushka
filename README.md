@@ -1,2 +1,2 @@
 # joushka
-First Client
+First client project.
